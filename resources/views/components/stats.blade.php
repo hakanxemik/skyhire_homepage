@@ -1,4 +1,4 @@
-<div class="bg-gray-50 my-12 px-4 text-center sm:px-6 lg:px-8">
+<div class="bg-gray-50 mb-12 -mt-12 px-4 text-center sm:px-6 lg:px-8">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="max-w-4xl mx-auto text-center">
         <h2 class="text-3xl font-extrabold text-gray-900 sm:text-4xl">Vertrauen bei über 20 Unternehmen</h2>

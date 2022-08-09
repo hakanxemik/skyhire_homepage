@@ -4,7 +4,7 @@
         <div class="flex justify-center align-middle flex-col">
             <h1 class="pt-2 pb-2 text-center text-xl font-serif md:text-2xl text-indigo-800">IT-Fachkräfte für Ihr Unternehmen</h1>
             <p class="hidden md:block text-center text-xl md:text-4xl">Gutes Personal ist wichtiger als jede Technologie</p>
-            <p class="md:hidden block text-center text-xl md:text-4xl">Gutes Personal ist <br> wichtiger als jede Technologie</p>
+            <p class="md:hidden block text-center text-xl md:text-4xl">Gutes Personal ist wichtiger <br> als jede Technologie</p>
         </div>
         <div class="flex flex-col md:flex-row justify-center md:px-8 py-8">
             <div class="flex lg:w-1/2 justify-center">

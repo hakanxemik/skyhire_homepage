@@ -50,13 +50,13 @@
             @include('components.why')
             <!-- Why Us Section End -->
 
-            <!-- Testimonial Section -->
-            @include('components.testimonial')
-            <!-- Testimonial Section End -->
-
             <!-- Stats Section -->
             @include('components.stats')
             <!-- Stats Section End -->
+
+            <!-- Testimonial Section -->
+            @include('components.testimonial')
+            <!-- Testimonial Section End -->
 
             <!-- Team Section -->
             @include('components.team')
