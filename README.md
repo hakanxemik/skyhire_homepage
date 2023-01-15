@@ -1,6 +1,6 @@
 # skyhire_homepage
 
-laravel project environment
+SkyHire is tech recruitment plattform. The goal of this project is to set up a homepage where customers can arrange meetings with the recruiters and a job searching plattform. This project is WIP
 
 # How to set up project
 
